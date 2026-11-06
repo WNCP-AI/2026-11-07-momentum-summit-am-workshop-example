@@ -1,0 +1,4 @@
+Lines J1 added to the end of agentic-os/.gitignore, after a blank line:
+
+# Outreach work project: holds contacts
+1_Work_Projects/2026.11.05 Outreach/

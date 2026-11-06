@@ -1,0 +1,73 @@
+0_Company/01_Overview.md
+0_Company/02_Product.md
+0_Company/03_Sales.md
+0_Company/04_Market.md
+0_Company/05_Traction.md
+0_Company/06_Team.md
+0_System/memory/2026-11-05.md
+0_System/memory/glossary.md
+0_System/memory/MEMORY.md
+0_User/01_Overview.md
+0_User/02_Expertise.md
+0_User/03_Preferences.md
+0_User/04_Goals.md
+0_User/05_Voice.md
+1_Work_Projects/2026.11.05 Outreach/draft.md
+1_Work_Projects/2026.11.05 Outreach/drafts/2026-11-05 Morgan Fakely.md
+1_Work_Projects/2026.11.05 Outreach/drafts/2026-11-05 Riley Madeup.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-05-20 Avery Fictional - Intro from Parker and first look.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-05-21 Riley Madeup - Intro from Ellis and first look.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-06-11 Morgan Fakely - Intro from Harper and first look.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-06-24 Riley Madeup - Partner route or something bigger.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-07-15 Avery Fictional - Partner fit and pilot proof.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-08-19 Riley Madeup - Government delivery on new models.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-08-26 Morgan Fakely - Industry editions and where we fit.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-09-16 Avery Fictional - FDE4Real as forward-deployed partner.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-09-23 Riley Madeup - FDE4Real for enterprise and government deployments.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-09-30 Morgan Fakely - GV and Google Cloud interest.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-10-07 Avery Fictional - Strategic investment range and structure.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-10-14 Riley Madeup - Leadership call on OpenAI versus rivals.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-10-21 Morgan Fakely - Leadership call on Gemini Enterprise channel.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-10-28 Avery Fictional - Leadership call and next steps.md
+1_Work_Projects/2026.11.05 Outreach/meetings/2026-10-29 Morgan Fakely - Term sheet timing.md
+1_Work_Projects/2026.11.05 Outreach/outreach-settings.md
+1_Work_Projects/2026.11.05 Outreach/sleep-log.md
+2_Research/News/2026/11/2026-10-21 Google - Google Public Sector adds FDE academy and 45M partner funding.md
+2_Research/News/2026/11/2026-10-23 Anthropic - Anthropic and Hg plan European AI consultancy.md
+2_Research/News/2026/11/2026-10-27 Anthropic - Anthropic expands GSA partnership to all levels of government.md
+2_Research/News/2026/11/2026-11-03 OpenAI - OpenAI hires Dan Driscoll for national security role.md
+3_Library/01 WNCP AI overview.md
+3_Library/02 FDE4Real product.md
+3_Library/03 FDE4Real traction and raise.md
+3_Library/04 Team.md
+3_Library/Emails/2026/05/2026-05-13 Parker Notional - Thank you for the intro to Avery.md
+3_Library/Emails/2026/05/2026-05-14 Ellis Makebelieve - Thanks for connecting me with Riley.md
+3_Library/Emails/2026/05/2026-05-21 Avery Fictional - Good to meet you, and the services company news.md
+3_Library/Emails/2026/06/2026-06-03 Harper Unreal - Thank you for the intro to Morgan.md
+3_Library/Emails/2026/06/2026-06-25 Riley Madeup - The Partner Network, and what we'd want beyond a tier.md
+3_Library/Emails/2026/08/2026-08-27 Morgan Fakely - Recap, and the question of a government edition.md
+3_Library/Emails/2026/09/2026-09-24 Riley Madeup - Recap, and the government pricing window to 2028.md
+3_Library/Emails/2026/10/2026-10-09 Avery Fictional - Frontier Academy, and engineers we could nominate.md
+3_Library/Emails/2026/10/2026-10-15 Riley Madeup - Recap of the leadership call, and model terms timing.md
+3_Library/Meetings/2026/05/2026-05-20 Avery Fictional - Intro from Parker and first look.md
+3_Library/Meetings/2026/05/2026-05-21 Riley Madeup - Intro from Ellis and first look.md
+3_Library/Meetings/2026/06/2026-06-11 Morgan Fakely - Intro from Harper and first look.md
+3_Library/Meetings/2026/06/2026-06-24 Riley Madeup - Partner route or something bigger.md
+3_Library/Meetings/2026/07/2026-07-15 Avery Fictional - Partner fit and pilot proof.md
+3_Library/Meetings/2026/08/2026-08-19 Riley Madeup - Government delivery on new models.md
+3_Library/Meetings/2026/08/2026-08-26 Morgan Fakely - Industry editions and where we fit.md
+3_Library/Meetings/2026/09/2026-09-16 Avery Fictional - FDE4Real as forward-deployed partner.md
+3_Library/Meetings/2026/09/2026-09-23 Riley Madeup - FDE4Real for enterprise and government deployments.md
+3_Library/Meetings/2026/09/2026-09-30 Morgan Fakely - GV and Google Cloud interest.md
+3_Library/Meetings/2026/10/2026-10-07 Avery Fictional - Strategic investment range and structure.md
+3_Library/Meetings/2026/10/2026-10-14 Riley Madeup - Leadership call on OpenAI versus rivals.md
+3_Library/Meetings/2026/10/2026-10-21 Morgan Fakely - Leadership call on Gemini Enterprise channel.md
+3_Library/Meetings/2026/10/2026-10-28 Avery Fictional - Leadership call and next steps.md
+3_Library/Meetings/2026/10/2026-10-29 Morgan Fakely - Term sheet timing.md
+3_Library/Outreach/Drafts/2026/11/2026-11-05 Morgan Fakely.md
+3_Library/Outreach/Drafts/2026/11/2026-11-05 Riley Madeup.md
+3_Library/Outreach/settings.md
+3_Library/Outreach/sleep-log.md
+AGENTS.md
+CLAUDE.md
+.gitignore
