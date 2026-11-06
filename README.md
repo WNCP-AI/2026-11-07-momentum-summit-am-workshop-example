@@ -1,6 +1,6 @@
 # Workshop demo data
 
-Download the OS from https://github.com/WNCP-AI/agentic-os and paste the kickoff prompt in its README. Then paste the
+Download the OS from https://github.com/WNCP-AI/2026-11-07-momentum-summit-am-workshop and paste the kickoff prompt in its README. Then paste the
 prompt below for the step you are on. If you fell behind, open `sample-output/` and `smoke-test/evidence/`. You do
 not need your own company.
 
@@ -39,7 +39,7 @@ question as Damien. The links point at the public example repo.
 `inputs/` goes in the agent's workspace, next to the `agentic-os` folder, not inside it. It holds contact data, and
 the OS is a git repo.
 
-Repo: https://github.com/WNCP-AI/agentic-os-example
+Repo: https://github.com/WNCP-AI/2026-11-07-momentum-summit-am-workshop-example
 
 ### Phase 0. Check the setup
 
@@ -61,7 +61,7 @@ When asked where your company information is:
 
 ```
 Files in this workspace. First get the folder
-https://github.com/WNCP-AI/agentic-os-example/tree/main/inputs/company
+https://github.com/WNCP-AI/2026-11-07-momentum-summit-am-workshop-example/tree/main/inputs/company
 into inputs/company/ in this workspace, next to the agentic-os folder. Don't change the files. Then read them there.
 ```
 
@@ -83,7 +83,7 @@ When asked for one or two sent emails:
 
 ```
 Files in this workspace. First get the folder
-https://github.com/WNCP-AI/agentic-os-example/tree/main/inputs/emails
+https://github.com/WNCP-AI/2026-11-07-momentum-summit-am-workshop-example/tree/main/inputs/emails
 into inputs/emails/ in this workspace. Then use these two:
 "2026-05-13 Parker Notional - Thank you for the intro to Avery.md" and
 "2026-10-15 Riley Madeup - Recap of the leadership call, and model terms timing.md".
@@ -106,7 +106,7 @@ Goal: keep Anthropic, OpenAI and Google warm until one leads the FDE4Real round,
 
 ```
 My contacts are in files in this workspace. First get the file
-https://github.com/WNCP-AI/agentic-os-example/blob/main/inputs/contacts.csv
+https://github.com/WNCP-AI/2026-11-07-momentum-summit-am-workshop-example/blob/main/inputs/contacts.csv
 into inputs/contacts.csv in this workspace. Read it there, read-only.
 ```
 
@@ -120,7 +120,7 @@ Skip anyone whose Stage is Passed, Committed or Exec, and anyone whose Notes say
 
 ```
 My call notes are in files in this workspace. First get the folder
-https://github.com/WNCP-AI/agentic-os-example/tree/main/inputs/meetings
+https://github.com/WNCP-AI/2026-11-07-momentum-summit-am-workshop-example/tree/main/inputs/meetings
 into inputs/meetings/ in this workspace. Read them there, read-only.
 My sent emails are in files in this workspace, inputs/emails/. Read them there, read-only.
 ```
